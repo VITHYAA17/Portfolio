@@ -32,17 +32,19 @@ Welcome to the repository of my professional portfolio website! This site is cus
    - Implemented transaction validation modules and role-based access security.
 
 ### 🚀 Featured Projects
-1. **Digital Wallet & Transaction Processing System** (React, Node.js, Express.js, MySQL, REST APIs)
+1. **PrepWise AI — Real-Time Voice Agent Interview Platform** (Next.js, React.js, Tailwind CSS, Vapi.ai, WebRTC, Google Gemini API, Web Speech API) *(May 2026)*
+   - Built a full-stack WebRTC-based mock interview platform using Vapi.ai for real-time voice agents at sub-800ms latency, and Gemini AI for dynamic questioning and scorecards across 5+ readiness metrics.
+   - Added offline support via the Web Speech API and LocalStorage, ensuring 100% local availability for uninterrupted interview simulations.
+2. **Digital Wallet & Transaction Processing System** (React, Node.js, Express.js, MySQL, REST APIs)
    - Secure banking wallet with database validation, expense categories, and transaction tracking.
-2. **CodeInsight AI — Coding Performance Analyzer** (Java, Spring Boot, PostgreSQL, React, Spring AI, OpenAI API)
+3. **CodeInsight AI — Coding Performance Analyzer** (Java, Spring Boot, PostgreSQL, React, Spring AI, OpenAI API)
    - AI-driven analytics computing 10+ performance metrics and compiling personalized GPT-4 study recommendations.
-3. **Data Warehouse Design for Business Reporting** (MySQL, Data Modeling, Power BI, ETL)
+4. **Data Warehouse Design for Business Reporting** (MySQL, Data Modeling, Power BI, ETL)
    - Enterprise data warehouse built using Medallion Architecture and linked to visualization dashboards.
-4. **Multi-Agent Medical Symptom Analyzer** (Python, LangChain, Groq LLaMA 3.1, FastAPI, Scikit-learn, Streamlit)
+5. **Multi-Agent Medical Symptom Analyzer** (Python, LangChain, Groq LLaMA 3.1, FastAPI, Scikit-learn, Streamlit)
    - 5-agent diagnosis pipeline combining classical machine learning classifier with LLM explanation models.
-5. **Real-Time Driver Monitoring & Risk Assessment System** (Python, OpenCV, MediaPipe, TensorFlow/Keras, FastAPI, SQLite)
+6. **Real-Time Driver Monitoring & Risk Assessment System** (Python, OpenCV, MediaPipe, TensorFlow/Keras, FastAPI, SQLite)
    - Real-time video model scoring drowsiness (EAR), facial expressions, and risk metrics.
-
 ### 🧠 Competitive Coding & Profiles
 - **LeetCode**: `350+` Problems Solved ([Profile Link](https://leetcode.com/u/VITHYAA_CK/))
 - **GeeksforGeeks**: `150+` Problems Solved ([Profile Link](https://www.geeksforgeeks.org/profile/vithyaack))
